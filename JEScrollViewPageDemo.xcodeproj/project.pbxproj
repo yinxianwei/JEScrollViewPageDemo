@@ -40,6 +40,7 @@
 		D0CD89931AA5617200AF21DE /* JEScrollViewPageDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JEScrollViewPageDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0CD89981AA5617200AF21DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D0CD89991AA5617200AF21DE /* JEScrollViewPageDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JEScrollViewPageDemoTests.m; sourceTree = "<group>"; };
+		D0CD89A31AA5617E00AF21DE /* JEUtilityKit+MACRO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "JEUtilityKit+MACRO.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		D0CD897C1AA5617200AF21DE /* JEScrollViewPageDemo */ = {
 			isa = PBXGroup;
 			children = (
+				D0CD89A31AA5617E00AF21DE /* JEUtilityKit+MACRO.h */,
 				D0CD89811AA5617200AF21DE /* AppDelegate.h */,
 				D0CD89821AA5617200AF21DE /* AppDelegate.m */,
 				D0CD89841AA5617200AF21DE /* ViewController.h */,
